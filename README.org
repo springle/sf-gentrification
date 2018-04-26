@@ -1,0 +1,6 @@
+* San Francisco Gentrification
+
+This project creates some basic visualizations of San Francisco rent
+data over time. The data is pulled from [[https://marthabridegam.com/sf-rent-history-chart/][this blog post]], where the
+poster did the work of aggregating rent data from a number of other
+sources.
